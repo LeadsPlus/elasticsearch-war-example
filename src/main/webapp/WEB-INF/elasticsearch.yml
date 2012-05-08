@@ -1,0 +1,3 @@
+cluster.name: javanna
+
+discovery.zen.ping.multicast.enabled: false
